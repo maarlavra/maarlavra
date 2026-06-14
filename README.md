@@ -8,7 +8,7 @@ Currently studying Information Systems and working as an Occupational Safety Tec
 
 > *"The most dangerous phrase in the language is: 'We've always done it this way.'"* — Grace Hopper
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Learning+Python+%26+Java;Exploring+Cybersecurity+%26+Networking;Building+my+first+full+stack+projects;Studying+UI%2FUX+with+Figma" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Learning+Networking+with+Cisco;Learning+C;Exploring+Cybersecurity+%26+Networking;Studying+UI%2FUX+with+Figma" alt="Typing SVG" />
 
 <p align="center">
     <a href="https://www.linkedin.com/in/mauriciolavra/">
