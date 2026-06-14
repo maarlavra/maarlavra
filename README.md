@@ -1,8 +1,8 @@
 <div align="center">
 
-# Mauricio Lavra
+# Hi, I Am Mauricio Lavra! 
 
-**Aspiring FullStack Developer**
+**FullStack Dev in Training**
 
 Currently studying Information Systems and working as an Occupational Safety Technician, but focused on transitioning into full stack development — with a growing interest in networking, information security, cloud, and pentesting.
 
